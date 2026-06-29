@@ -120,7 +120,7 @@ I believe software engineering is more than writing code—it's about designing 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma"/>
 
 </p>
 
