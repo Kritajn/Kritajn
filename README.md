@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;Building+Scalable+Applications;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
