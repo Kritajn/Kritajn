@@ -126,22 +126,6 @@ I believe software engineering is more than writing code—it's about designing 
 
 ---
 
-# AI / Machine Learning Expertise
-
-| Domain | Proficiency | Details |
-|---------|-------------|---------|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Deep Learning | Intermediate | Neural Networks & Transformers |
-| Natural Language Processing | Advanced | Text Processing, Semantic Search |
-| Speech Recognition | Advanced | Whisper, Wav2Vec2-BERT |
-| Generative AI | Advanced | LLM Integration, Prompt Engineering |
-| AI Automation | Advanced | Research Automation Platforms |
-| AI APIs | Advanced | OpenAI APIs, Hugging Face APIs |
-| Vector Search | Intermediate | Semantic Similarity & Embeddings |
-| Model Deployment | Intermediate | Flask APIs & AI Services |
-| Data Processing | Advanced | Python, Pandas, NumPy |
-
----
 
 <p align="center">
 
