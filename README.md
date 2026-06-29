@@ -386,61 +386,6 @@ Completed practical industry training focused on database systems, Android devel
 
 </p>
 
----
-
-## Oracle
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Java_Learning-F80000?style=for-the-badge&logo=oracle"/>
-
-</p>
-
----
-
-## Cisco
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco"/>
-
-</p>
-
----
-
-## NPTEL
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NPTEL-Continuous_Learning-4F46E5?style=for-the-badge"/>
-
-</p>
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
